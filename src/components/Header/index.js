@@ -80,6 +80,7 @@ class Header extends Component {
                 alt="website logo"
               />
             </Link>
+            <h1 className="website-title">Insta Share</h1>
             <ul className="nav-menu">
               <li
                 className="nav-search-bar"
