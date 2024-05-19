@@ -56,7 +56,7 @@ class Header extends Component {
             >
               <img
                 className="nav-website-logo"
-                src="https://res.cloudinary.com/dv99nu7xv/image/upload/v1711689686/logo-no-background_c7wr63.png"
+                src="https://res.cloudinary.com/dziwdneks/image/upload/v1675419223/login_icon_ekrs85.png"
                 alt="website logo"
               />
             </Link>
@@ -76,7 +76,7 @@ class Header extends Component {
             >
               <img
                 className="nav-website-logo"
-                src="https://res.cloudinary.com/dv99nu7xv/image/upload/v1711689686/logo-no-background_c7wr63.png"
+                src="https://res.cloudinary.com/dziwdneks/image/upload/v1675419223/login_icon_ekrs85.png"
                 alt="website logo"
               />
             </Link>
